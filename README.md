@@ -11,10 +11,12 @@ This program takes code and compiles it to a 3D model of the biological equivale
 - [ ] Automatic Error Handling Integration to Code
 
 ### Syntax Logic
+- [ ] Import Moduel Logic
 - [ ] If Statement Logic
 - [ ] Variable Logic (String, Booleans, Double, Int)
 - [ ] Print Logic
 - [ ] Loop Logic
+- [ ] While Logic
 - [ ] Math Logic
 
 # Resources and Inspiration
