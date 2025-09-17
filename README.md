@@ -22,4 +22,4 @@ This program takes code and compiles it to a 3D model of the biological equivale
 - Wikipedia to [Molecular Logic Gate](https://en.wikipedia.org/wiki/Molecular_logic_gate)
 - Wikipedia to [DNA Computing](https://en.wikipedia.org/wiki/DNA_computing)
 - Wikipedia to [Neuromorphic Computing](https://en.wikipedia.org/wiki/Neuromorphic_computing)
-- [RISC-V architecture](https://github.com/riscv)
+- [RISC-V Architecture](https://github.com/riscv)
