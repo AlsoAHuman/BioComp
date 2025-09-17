@@ -17,7 +17,7 @@ This program takes code and compiles it to a 3D model of the biological equivale
 - [ ] Print Logic
 - [ ] Loop Logic
 - [ ] While Logic
-- [ ] Math Logic
+- [ ] Math Operator Logic
 
 # Resources and Inspiration
 - [Pepper Compiler -](github.com/DNA-and-Natural-Algorithms-Group/peppercompiler) A compiler for DNA circuits and tile systems.
