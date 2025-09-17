@@ -1,2 +1,2 @@
 # BioComp
-Lets users write code as a way to program the functions of DNA
+This program takes code and compiles it to the biological equivalent.
