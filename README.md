@@ -25,3 +25,4 @@ This program takes code and compiles it to a 3D model of the biological equivale
 - Wikipedia to [DNA Computing](https://en.wikipedia.org/wiki/DNA_computing)
 - Wikipedia to [Neuromorphic Computing](https://en.wikipedia.org/wiki/Neuromorphic_computing)
 - [RISC-V Architecture](https://github.com/riscv)
+- [DNA Replication and Causes of Mutation](https://www.nature.com/scitable/topicpage/dna-replication-and-causes-of-mutation-409/) by Leslie A. Pray
